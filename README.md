@@ -1,9 +1,7 @@
-/*
+Satellite Images
+--
+A processing sketch to grab tiles from the Bing Maps API. 
 
-Satellite Images - a simple processing sketch to grab tiles from the Bing Maps API. 
-josh@joshbegley.com
-January 2014
+You'll need an API key, some latitudes/longitudes, and Processing - <http://processing.org>
 
-You'll need Processing, some latitudes/longitudes, and an API key - processing.org
-
-*/
+Contact: josh@joshbegley.com
